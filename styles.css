@@ -46,7 +46,7 @@ textarea {
   padding: 0 48px 0 15px;
 
   border: 0;
-  border-radius: 6px;
+  border-radius: 4px;
   background-color: rgba(34, 34, 34, 0.08) !important;
 }
 
@@ -102,8 +102,8 @@ textarea {
   padding: 15px;
 
   border: 0;
-  border-bottom-right-radius: 6px;
-  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
   background: #fff;
   -webkit-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
@@ -266,7 +266,7 @@ textarea {
   text-transform: uppercase;
 
   border: 0;
-  border-radius: 6px;
+  border-radius: 4px;
   text-shadow: none;
 }
 
@@ -393,7 +393,7 @@ textarea {
     width: -moz-fit-content;
     width: fit-content;
 
-    border-radius: 6px;
+    border-radius: 4px;
   }
 
   #cabecalho .menu-nav .nivel-um {
@@ -511,7 +511,7 @@ textarea {
   margin: 0;
   padding: 0;
 
-  border-radius: 6px;
+  border-radius: 4px;
 }
 
 #listagemProdutos li .nome-produto,
@@ -573,7 +573,7 @@ textarea {
   opacity: 1;
   color: #fff;
   border: 0;
-  border-radius: 6px;
+  border-radius: 4px;
   background: #262626;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -613,7 +613,7 @@ textarea {
   text-transform: uppercase;
 
   border: 0;
-  border-radius: 6px;
+  border-radius: 4px;
   background: #262626;
   text-shadow: none;
 }
@@ -991,13 +991,13 @@ h1.nome-produto.titulo.cor-secundaria {
 }
 
 a.botao.botao-comprar.principal.grande.botao-comprar-ajax {
-  border-radius: 6px;
+  border-radius: 4px;
 }
 
 .abas-custom .tab-content {
   padding: 20px;
 
-  border-radius: 6px;
+  border-radius: 4px;
 }
 
 .atalhos-mobile.visible-phone.fundo-secundario.borda-principal li.fundo-principal,
@@ -1091,8 +1091,8 @@ h4.titulo.cor-secundaria {
 
 #modalContato .modal-header {
   color: #fff;
-  border-top-left-radius: 6px;
-  border-top-right-radius: 6px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
   background-color: #cc212a;
 }
 
@@ -1169,7 +1169,7 @@ textarea {
 .botao {
   border-width: 1px;
   border-color: transparent;
-  border-radius: 6px;
+  border-radius: 4px;
   background-image: none;
 }
 
@@ -1413,7 +1413,7 @@ h4.titulo.cor-secundaria {
   text-align: center;
 
   border: 0;
-  border-radius: 6px;
+  border-radius: 4px;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -1422,7 +1422,7 @@ h4.titulo.cor-secundaria {
   padding: 9px 14px 2px;
 
   border: 0 !important;
-  border-radius: 6px 6px 0 0;
+  border-radius: 4px 4px 0 0;
 }
 
 .popover-content {
@@ -1551,8 +1551,8 @@ h4.titulo.cor-secundaria {
 }
 
 #comprar-ajax-status .tabela-carrinho {
-  border-top-left-radius: 6px;
-  border-top-right-radius: 6px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
 }
 
 #comprar-ajax-status .sucesso .buttons > * {
@@ -1677,7 +1677,7 @@ h4.titulo.cor-secundaria {
 .pagina-carrinho .finalizar-compra .table.tabela-carrinho {
   overflow: hidden;
 
-  border-radius: 6px;
+  border-radius: 4px;
 }
 
 .full.menu .nivel-um i {
@@ -2235,7 +2235,7 @@ body.pagina-carrinho.carrinho-checkout .campos-pedido {
   .pagina-carrinho .tabela-carrinho .form-horizontal input#usarCupom {
     width: auto;
 
-    border-radius: 6px;
+    border-radius: 4px;
   }
 
   .pagina-carrinho .finalizar-compra .form-horizontal button.btn {
@@ -2244,7 +2244,7 @@ body.pagina-carrinho.carrinho-checkout .campos-pedido {
     width: fit-content;
     margin-top: 5px;
 
-    border-radius: 6px;
+    border-radius: 4px;
   }
 }
 
