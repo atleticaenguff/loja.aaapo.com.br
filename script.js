@@ -59,7 +59,7 @@ function initialBar() {
   $("body > div.barra-inicial.fundo-secundario div.lista-redes").remove()
   $("body > div.barra-inicial.fundo-secundario div.canais-contato").remove()
   $("body > div.barra-inicial.fundo-secundario").remove()
-  $("body").prepend("<div class='barra-inicial fundo-secundario'><div class='conteiner'><div class='row-fluid' style='display: flex'><a href='https://www.aaapo.com.br/' style='display: flex; align-items: center; text-decoration: none'><i class='fas fa-angle-left' style='margin-right: 0.25em; font-size: 0.9rem'></i>Voltar para a página inicial</a></div></div></div>")
+  $("body").prepend("<div class='barra-inicial fundo-secundario'><div class='conteiner'><div style='display: flex; justify-content: space-between'><a href='https://www.aaapo.com.br/' style='display: flex; align-items: center; text-decoration: none'><i class='fas fa-angle-left' style='margin-top: 0.05em; margin-right: 0.25em; font-size: 0.85rem'></i>Voltar para a página inicial</a><a href='https://www.melhorrastreio.com.br' rel='noreferrer' target='_blank' style='display: flex; align-items: center; text-decoration: none'><i class='fas fa-box-open' style='margin-right: 0.25em; font-size: 0.85rem'></i>Rastreio</a></div></div></div>")
 }
 
 function upperMenu() {
